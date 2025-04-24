@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter
+*.ipynb_checkpoints
+
+# Artifacts & datasets
+*.joblib
+*.pkl
+*.csv
+data/raw/
+models/
+# Cloud credentials / secrets
+*.json
+.env
